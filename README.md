@@ -1,2 +1,2 @@
-# onitor_repo
-Extensions repository for the new version of Onitor Browser
+# Onitor Browser repository
+Downloads repository for the new version of Onitor Browser
